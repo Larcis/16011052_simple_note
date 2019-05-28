@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_by__text">Sort by:</string>
+    <string-array name="sort_spinner">
+
+        <item> Date  </item>
+        <item> Priority </item>
+        <item> Header </item>
+    </string-array>
+</resources>
